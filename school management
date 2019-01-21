@@ -4,4 +4,6 @@ void main()
 {
   int a=12,b=9,add=0;
   add=a+b;
+  printf("student");
 }
+
